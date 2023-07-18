@@ -5,3 +5,7 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 # DESCRIPTION OF THE PNEUMONIA DATASET
 
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). link textThe dataset contains two kinds of chest X-ray Images: NORMAL and PNEUMONIA, which are stored in two folders. In the PNEUMONIA folder, two types of specifc PNEUMONIA can be recognized by the fle name: BACTERIA and VIRUS.
+
+![Screenshot (2)](https://github.com/GauriGA/MSCBootcamp/assets/118062523/1c30924f-efe1-4f00-9557-d0ec5ea5a5a9)
+
+
