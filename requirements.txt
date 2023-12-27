@@ -1,0 +1,7 @@
+matplotlib==2.1.0
+numpy==1.24.2
+pandas==2.0.3
+Pillow==9.5.0
+Pillow==10.1.0
+protobuf==4.25.1
+tensorflow==2.15.0.post1
